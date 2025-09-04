@@ -13,9 +13,9 @@ human work, creativity, and problem-solving, Inspired by Pranav Mistry's SixthSe
 - 💬 **Ask Me About**:  deep learning workflows or why AI should empower humans.
 
 ## Featured Projects
-- **[LULC Semantic Segmentation](https://github.com/Faheem-02/LULC-Segmentation-U-Net-ResNet34)**: U-Net for classifying satellite imagery (Buildings, Woodlands, Water).  ISRO internship project—enhanced data pipelines for rare classes.
+- **[LULC Semantic Segmentation](https://github.com/Faheem-02/LULC-Classification-U-Net-ResNet34)**: U-Net for classifying satellite imagery (Buildings, Woodlands, Water).  ISRO internship project—enhanced data pipelines for rare classes.
 - **[Image Super-Resolution](https://github.com/Faheem-02/Image-Super-Resolution-Comparative)**: Compared SRCNN, SRGAN on satellite images. GANs outperformed CNNs (higher PSNR/SSIM). Focus: Sharpening geospatial data for better analysis.
-- **[U-Net + ResNet34 Extension](https://github.com/Faheem-02/LULC-Extension-ResNet34)**: Independent boost of ISRO internship to baseline U-Net—0.7 and above Mean IoU via augmentation and backbone integration.
+- **[U-Net + ResNet34 Extension](https://github.com/Faheem-02/LULC-Classification-U-Net-ResNet34)**: Independent boost of ISRO internship to baseline U-Net—0.7 and above Mean IoU via augmentation and backbone integration.
 
 ## Tech Stack & Skills
 ![Python](https://img.shields.io/badge/Python-Primary-blue?logo=python) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
