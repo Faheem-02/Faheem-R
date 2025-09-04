@@ -1,7 +1,7 @@
 
 # Hi, I'm Mohammad Faheem! 👋
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Faheem-02&label=Views&color=blue)]() [![GitHub followers](https://img.shields.io/github/followers/Faheem-02?style=social)](https://github.com/Faheem-02?tab=followers)[![GitHub Stars](https://img.shields.io/github/stars/Faheem-02?style=social)](https://github.com/Faheem-02?tab=repositories)![GitHub Streak](https://streak-stats.demolab.com?user=Faheem-02&theme=radical&hide_border=true)
+[![Profile Views](https://komarev.com/ghpvc/?username=Faheem-02&label=Views&color=blue)]() [![GitHub followers](https://img.shields.io/github/followers/Faheem-02?style=social)](https://github.com/Faheem-02?tab=followers)[![GitHub Stars](https://img.shields.io/github/stars/Faheem-02?style=social)](https://github.com/Faheem-02?tab=repositories)[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=YOUR_USERNAME&theme=radical&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 A fresh graduate AI/ML Engineer with hands-on experience in geospatial data and remote sensing. I believe AI should act as a partner to enhance human work, creativity, and problem-solving. Inspired by Pranav Mistry’s SixthSense, I aim to design AI systems that augment human creativity, not replace it. Passionate about reverse engineering problems, researching deeply, and exploring creative alternatives to make processes smarter and more effective
 
