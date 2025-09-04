@@ -1,7 +1,7 @@
 
 # Hi, I'm Mohammad Faheem! 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/Faheem-02?style=social)](https://github.com/Faheem-02?tab=followers) [![Profile Views](https://komarev.com/ghpvc/?username=Faheem-02&label=Views&color=blue)]() [![GitHub Stars](https://img.shields.io/github/stars/Faheem-02?style=social)](https://github.com/Faheem-02?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=Faheem-02&label=Views&color=blue)]() [![GitHub followers](https://img.shields.io/github/followers/Faheem-02?style=social)](https://github.com/Faheem-02?tab=followers)[![GitHub Stars](https://img.shields.io/github/stars/Faheem-02?style=social)](https://github.com/Faheem-02?tab=repositories)
 
 A fresh grad AI/ML Engineer here, with an handson experience in geospatial data and remote sensing. I believe that AI can be partner to enhance
 human work, creativity, and problem-solving, Inspired by Pranav Mistry's SixthSense—using tech to augment human creativity, not replace it. I am Passionate about reverse engineering problems, researching deeply, and exploring creative alternatives to make processes smarter and more effective.
