@@ -1,4 +1,6 @@
-<img src="https://media.giphy.com/media/3o7TKTDnH5QRu1si6I/giphy.gif" alt="Welcome GIF" width="100%"/>  <!-- Add a fun AI-themed GIF, e.g., from Giphy: search "AI satellite imagery" -->
+<p align="center">
+  <img src="assets/banner.png" alt="Mohammad Faheem Banner" width="100%" />
+</p> 
 
 # Hi, I'm Mohammad Faheem! 👋
 
