@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Mohammad Faheem Banner" width="100%" />
-</p> 
 
 # Hi, I'm Mohammad Faheem! 👋
 
