@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/l0HlRnAWXxn0MhKLK/giphy.gif" alt="AI GIF" width="100%"/>  <!-- Add a fun AI-themed GIF, e.g., from Giphy: search "AI satellite imagery" -->
+<img src="https://media.giphy.com/media/3o7TKTDnH5QRu1si6I/giphy.gif" alt="Welcome GIF" width="100%"/>  <!-- Add a fun AI-themed GIF, e.g., from Giphy: search "AI satellite imagery" -->
 
 # Hi, I'm Mohammad Faheem! 👋
 
