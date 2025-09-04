@@ -1,10 +1,40 @@
-# Faheem-R
-# Mohammad Faheem
-**AI/ML Engineer** — Computer Vision & Geospatial AI
+<img src="https://your-image-link.com/header.gif" alt="Header GIF" width="100%"/>  <!-- Add a fun AI-themed GIF, e.g., from Giphy: search "AI satellite imagery" -->
 
-- 🔭 Projects: Super-Resolution (SRCNN/SRGAN/ESRGAN), LULC (U-Net/ResNet34)
-- 🎯 Focus: Artificial Intelligence, Deep Learning, Image Segmentation, Super-Resolution, GANs
-- 🛠️ Stack: Python, PyTorch, TensorFlow, Keras, OpenCV
-- 🌐 Portfolio: [link-soon]
-- 📄 Resume: [PDF link]
-- 📫 faheemar3@gmail.com 
+# Hi, I'm Mohammad Faheem! 👋
+
+[![GitHub followers](https://img.shields.io/github/followers/Faheem-02?style=social)](https://github.com/Faheem-02?tab=followers) [![Visitor](https://visitor-badge.laobi.ichangtou.cn/badge?page_id=Faheem-02.Faheem-R)](https://github.com/Faheem-02/Faheem-R) [![GitHub Stars](https://img.shields.io/github/stars/Faheem-02?style=social)](https://github.com/Faheem-02?tab=repositories)
+
+AI/ML Engineer passionate about Computer Vision & Geospatial AI. Inspired by Pranav Mistry's SixthSense—using tech to augment human creativity, not replace it. I am Passionate about reverse engineering problems, researching deeply, and exploring creative alternatives to make processes smarter and more effective.
+
+## About Me
+- 🌱 **Currently Exploring**: Human-Centered AI for urban planning and environmental monitoring.
+- 🎓 **Education**: B.Tech in CS (AI & ML) from Vignana Bharathi Institute of Technology (2021-2025, CGPA 7.5).
+- 📍 **Location**:  India | Open to entry-level AI/ML roles.
+- 💬 **Ask Me About**:  deep learning workflows, or why AI should empower humans.
+
+## Featured Projects
+- **[LULC Semantic Segmentation](https://github.com/Faheem-02/LULC-Segmentation-U-Net-ResNet34)**: U-Net + ResNet34 for classifying satellite imagery (Buildings, Woodlands, Water). Achieved 0.79+ Mean IoU. ISRO internship project—enhanced data pipelines for rare classes.
+- **[Image Super-Resolution](https://github.com/Faheem-02/Image-Super-Resolution-Comparative)**: Compared SRCNN, SRGAN, ESRGAN on satellite images. GANs outperformed CNNs (higher PSNR/SSIM). Focus: Sharpening geospatial data for better analysis.
+- **[U-Net + ResNet34 Extension](https://github.com/Faheem-02/LULC-Extension-ResNet34)**: Independent boost to baseline U-Net—0.84 Mean IoU via augmentation and backbone integration.
+
+## Tech Stack & Skills
+![Python](https://img.shields.io/badge/Python-Primary-blue?logo=python) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+
+- **Programming**: Python (Primary), SQL, C, HTML/CSS
+- **ML/DL**: Scikit-learn, Hugging Face, AWS/GCP for deployment
+- **Tools**: Git/GitHub, VS Code, QGIS, MS Office
+- **Soft Skills**: Human-Centered AI, Reverse Engineering, Collaboration
+
+## Stats
+![Faheem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faheem-02&theme=radical&show_icons=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faheem-02&theme=radical&layout=compact&hide_border=true)
+
+
+## Resume & Contact
+- 📄 [Resume PDF](docs/Faheem_Resume.pdf)
+- 🔗 [LinkedIn]([Your LinkedIn URL]) | 📧 faheemar3@gmail.com 
+- Let's chat about AI collaborations or job opportunities!
+
+---
+
+<p align="center">Built with ❤️ using GitHub README tools. Inspired by awesome profiles like @anuraghazra!</p>
