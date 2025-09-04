@@ -2,7 +2,7 @@
 
 # Hi, I'm Mohammad Faheem! 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/Faheem-02?style=social)](https://github.com/Faheem-02?tab=followers) [![Visitor](https://visitor-badge.laobi.ichangtou.cn/badge?page_id=Faheem-02.Faheem-R)](https://github.com/Faheem-02/Faheem-R) [![GitHub Stars](https://img.shields.io/github/stars/Faheem-02?style=social)](https://github.com/Faheem-02?tab=repositories)
+[![GitHub followers](https://img.shields.io/github/followers/Faheem-02?style=social)](https://github.com/Faheem-02?tab=followers) ![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFaheem-02%2FFaheem-R&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=true)(https://github.com/Faheem-02/Faheem-R) [![GitHub Stars](https://img.shields.io/github/stars/Faheem-02?style=social)](https://github.com/Faheem-02?tab=repositories)
 
 A fresh grad AI/ML Engineer here, with an handson experience in geospatial data and remote sensing. I believe that AI can be partner to enhance
 human work, creativity, and problem-solving, Inspired by Pranav Mistry's SixthSense—using tech to augment human creativity, not replace it. I am Passionate about reverse engineering problems, researching deeply, and exploring creative alternatives to make processes smarter and more effective.
