@@ -14,7 +14,7 @@ human work, creativity, and problem-solving, Inspired by Pranav Mistry's SixthSe
 
 ## Featured Projects
 - **[LULC Semantic Segmentation](https://github.com/Faheem-02/LULC-Classification-U-Net-ResNet34)**: U-Net for classifying satellite imagery (Buildings, Woodlands, Water).  ISRO internship project—enhanced data pipelines for rare classes.
-- **[Image Super-Resolution](https://github.com/Faheem-02/Image-Super-Resolution-Comparative)**: Compared SRCNN, SRGAN on satellite images. GANs outperformed CNNs (higher PSNR/SSIM). Focus: Sharpening geospatial data for better analysis.
+- **[Image Super-Resolution]([https://github.com/Faheem-02/Image-Super-Resolution-Comparative](https://github.com/Faheem-02/Comparative-Study-of-Deep-Learning-Models-for-Image-Super-Resolution))**: Compared SRCNN, SRGAN on satellite images. GANs outperformed CNNs (higher PSNR/SSIM). Focus: Sharpening geospatial data for better analysis.
 - **[U-Net + ResNet34 Extension](https://github.com/Faheem-02/LULC-Classification-U-Net-ResNet34)**: Independent boost of ISRO internship to baseline U-Net—0.7 and above Mean IoU via augmentation and backbone integration.
 
 ## Tech Stack & Skills
