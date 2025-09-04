@@ -2,7 +2,7 @@
 
 # Hi, I'm Mohammad Faheem! 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/Faheem-02?style=social)](https://github.com/Faheem-02?tab=followers) ![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFaheem-02%2FFaheem-R&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=true)(https://github.com/Faheem-02/Faheem-R) [![GitHub Stars](https://img.shields.io/github/stars/Faheem-02?style=social)](https://github.com/Faheem-02?tab=repositories)
+[![GitHub followers](https://img.shields.io/github/followers/Faheem-02?style=social)](https://github.com/Faheem-02?tab=followers) [![Profile Views](https://komarev.com/ghpvc/?username=Faheem-02&label=Views&color=blue)]()(https://github.com/Faheem-02/Faheem-R) [![GitHub Stars](https://img.shields.io/github/stars/Faheem-02?style=social)](https://github.com/Faheem-02?tab=repositories)
 
 A fresh grad AI/ML Engineer here, with an handson experience in geospatial data and remote sensing. I believe that AI can be partner to enhance
 human work, creativity, and problem-solving, Inspired by Pranav Mistry's SixthSense—using tech to augment human creativity, not replace it. I am Passionate about reverse engineering problems, researching deeply, and exploring creative alternatives to make processes smarter and more effective.
@@ -14,9 +14,9 @@ human work, creativity, and problem-solving, Inspired by Pranav Mistry's SixthSe
 - 💬 **Ask Me About**:  deep learning workflows or why AI should empower humans.
 
 ## Featured Projects
-- **[LULC Semantic Segmentation](https://github.com/Faheem-02/LULC-Segmentation-U-Net-ResNet34)**: U-Net + ResNet34 for classifying satellite imagery (Buildings, Woodlands, Water). Achieved 0.79+ Mean IoU. ISRO internship project—enhanced data pipelines for rare classes.
-- **[Image Super-Resolution](https://github.com/Faheem-02/Image-Super-Resolution-Comparative)**: Compared SRCNN, SRGAN, ESRGAN on satellite images. GANs outperformed CNNs (higher PSNR/SSIM). Focus: Sharpening geospatial data for better analysis.
-- **[U-Net + ResNet34 Extension](https://github.com/Faheem-02/LULC-Extension-ResNet34)**: Independent boost to baseline U-Net—0.84 Mean IoU via augmentation and backbone integration.
+- **[LULC Semantic Segmentation](https://github.com/Faheem-02/LULC-Segmentation-U-Net-ResNet34)**: U-Net for classifying satellite imagery (Buildings, Woodlands, Water).  ISRO internship project—enhanced data pipelines for rare classes.
+- **[Image Super-Resolution](https://github.com/Faheem-02/Image-Super-Resolution-Comparative)**: Compared SRCNN, SRGAN on satellite images. GANs outperformed CNNs (higher PSNR/SSIM). Focus: Sharpening geospatial data for better analysis.
+- **[U-Net + ResNet34 Extension](https://github.com/Faheem-02/LULC-Extension-ResNet34)**: Independent boost of ISRO internship to baseline U-Net—0.7 and above Mean IoU via augmentation and backbone integration.
 
 ## Tech Stack & Skills
 ![Python](https://img.shields.io/badge/Python-Primary-blue?logo=python) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
