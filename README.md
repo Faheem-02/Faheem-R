@@ -56,8 +56,7 @@ Passionate about reverse engineering problems, researching deeply, and exploring
 
 ---
 
-## 📄 Resume & Contact
-- 📄 [Resume PDF](docs/Faheem_Resume.pdf)  
+## 📄Contact
 - 🔗 [LinkedIn](Your_LinkedIn_URL) | 📧 **faheemar3@gmail.com**  
 - 💬 Let’s chat about AI collaborations or job opportunities!  
 
