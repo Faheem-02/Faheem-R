@@ -23,7 +23,7 @@ Passionate about reverse engineering problems, researching deeply, and exploring
 ---
 
 ## 🚀 Featured Projects
-- **[LULC Semantic Segmentation](https://github.com/Faheem-02/LULC-Classification-U-Net-ResNet34)**  
+- **[LULC Semantic Segmentation](https://github.com/Faheem-02/Level-I-LULC-Classification-using-U-Net-ISRO-Internship-)**  
   U-Net for classifying satellite imagery (Buildings, Woodlands, Water). ISRO internship project—enhanced data pipelines for rare classes.  
 
 - **[Image Super-Resolution](https://github.com/Faheem-02/Comparative-Study-of-Deep-Learning-Models-for-Image-Super-Resolution)**  
