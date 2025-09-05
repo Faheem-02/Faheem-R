@@ -40,6 +40,7 @@ Passionate about reverse engineering problems, researching deeply, and exploring
 ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![AI](https://img.shields.io/badge/Keras-Deep%20Learning-yellow)
 
 - **Programming**: Python (Primary), SQL, HTML/CSS, C, NLP, Computer Vision  
 - **ML/DL**: Scikit-learn, Hugging Face, Model Scope, AWS/GCP for deployment  
