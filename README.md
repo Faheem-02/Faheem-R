@@ -1,9 +1,5 @@
 # Hey, I'm Faheem 👋
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Faheem-02&label=Views&color=blue)]() 
-[![GitHub followers](https://img.shields.io/github/followers/Faheem-02?style=social)](https://github.com/Faheem-02?tab=followers) 
-[![GitHub Stars](https://img.shields.io/github/stars/Faheem-02?style=social)](https://github.com/Faheem-02?tab=repositories)
-
 I'm an AI Systems Engineer based in Hyderabad, India.
 
 I don't just wire up LLM calls — I build the layer around them. The part that plans, routes, handles failure, falls back gracefully, and gives you traceable output instead of a black box. After spending time at ISRO automating satellite image pipelines, I started applying the same thinking to AI systems: define the states, control the execution, design for what breaks.
@@ -75,3 +71,7 @@ Concepts     →  State machines, Control loops, DAG execution, Actor model, Moc
 ---
 
 *"I think in systems first and reach for code second."*
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Faheem-02&label=Views&color=blue)]() 
+[![GitHub followers](https://img.shields.io/github/followers/Faheem-02?style=social)](https://github.com/Faheem-02?tab=followers) 
+[![GitHub Stars](https://img.shields.io/github/stars/Faheem-02?style=social)](https://github.com/Faheem-02?tab=repositories)
