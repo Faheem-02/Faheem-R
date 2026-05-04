@@ -70,7 +70,7 @@ Concepts     →  State machines, Control loops, DAG execution, Actor model, Moc
 ## 📫 Let's connect
 
 - 📧 [Faheemar3@gmail.com](mailto:Faheemar3@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/faheem-ar/)
+- 💼 [LinkedIn]((https://www.linkedin.com/in/faheem2144/))
 - 📍 Hyderabad, India — open to remote and hybrid roles
 
 ---
