@@ -2,7 +2,7 @@
 
 I'm an AI Systems Engineer based in Hyderabad, India.
 
-I don't just wire up LLM calls — I build the layer around them. The part that plans, routes, handles failure, falls back gracefully, and gives you traceable output instead of a black box. After spending time at ISRO automating satellite image pipelines, I started applying the same thinking to AI systems: define the states, control the execution, design for what breaks.
+I don't just wire up LLM calls - I build the layer around them. The part that plans, routes, handles failure, falls back gracefully, and gives you traceable output instead of a black box. After spending time at ISRO automating satellite image pipelines, I started applying the same thinking to AI systems: define the states, control the execution, design for what breaks.
 
 Currently looking for roles where I can build AI pipelines, agent systems, or LLM-integrated backends that actually work in production.
 
@@ -11,13 +11,16 @@ Currently looking for roles where I can build AI pipelines, agent systems, or LL
 ## 🔧 What I Build
 
 **AI Systems & Agents**
-Systems that don't just chat — they plan tasks, route intent, execute actions, and recover from failure. Built without LangChain because understanding the internals matters.
+
+Systems that don't just chat - they plan tasks, route intent, execute actions, and recover from failure. Built without LangChain because understanding the internals matters.
 
 **RAG Pipelines**
+
 Retrieval-augmented generation with source tracking, confidence scoring, and hallucination guards. Not a wrapper, a pipeline with defined stages and observable behaviour.
 
 **ML & Computer Vision**
-Geospatial image segmentation from my ISRO internship — U-Net baseline (IoU 0.4013 on 135 ISRO satellite images, 7 classes) extended to U-Net + ResNet34 (Mean IoU 0.7984 on 21,000-image landcover.ai dataset). Also explored image super-resolution with SRCNN and SRGAN on satellite imagery.
+
+Geospatial image segmentation from my ISRO internship - U-Net baseline (IoU 0.4013 on 135 ISRO satellite images, 7 classes) extended to U-Net + ResNet34 (Mean IoU 0.7984 on 21,000-image landcover.ai dataset). Also explored image super-resolution with SRCNN and SRGAN on satellite imagery.
 
 ---
 
@@ -38,10 +41,10 @@ Geospatial image segmentation from my ISRO internship — U-Net baseline (IoU 0.
 
 A few principles I arrived at independently (and later found in distributed systems literature):
 
-- **State before logic** — define your execution states explicitly; hidden transitions cause the worst bugs
-- **Design for failure first** — if you can't describe how a component fails, you don't understand it yet
-- **Backpressure over retries** — hard limits beat optimistic retry loops every time
-- **Observability is not optional** — if you can't trace what happened, you can't fix it
+- **State before logic** - define your execution states explicitly; hidden transitions cause the worst bugs
+- **Design for failure first** - if you can't describe how a component fails, you don't understand it yet
+- **Backpressure over retries** - hard limits beat optimistic retry loops every time
+- **Observability is not optional** - if you can't trace what happened, you can't fix it
 
 ---
 
