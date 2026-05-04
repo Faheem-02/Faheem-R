@@ -17,7 +17,7 @@ Systems that don't just chat — they plan tasks, route intent, execute actions,
 Retrieval-augmented generation with source tracking, confidence scoring, and hallucination guards. Not a wrapper, a pipeline with defined stages and observable behaviour.
 
 **ML & Computer Vision**
-Geospatial image segmentation from my ISRO internship — U-Net with ResNet34 backbone, achieving ~0.79 IoU on multi-class land-cover classification from satellite imagery.
+Geospatial image segmentation from my ISRO internship — U-Net baseline (IoU 0.4013 on 135 ISRO satellite images, 7 classes) extended to U-Net + ResNet34 (Mean IoU 0.7984 on 21,000-image landcover.ai dataset). Also explored image super-resolution with SRCNN and SRGAN on satellite imagery.
 
 ---
 
@@ -28,7 +28,9 @@ Geospatial image segmentation from my ISRO internship — U-Net with ResNet34 ba
 | [**Aletheia RAG Engine**](https://github.com/Faheem-02/Alethia-RAG-Engine) | Retrieval → reranking → generation with source verification and mock fallback | Python, FAISS, FastAPI |
 | [**Nexus AI Agent**](https://github.com/Faheem-02/Nexus-AI-Agent) | Goal → plan → execution with Playwright browser automation and controlled loops | Python, Playwright, FastAPI |
 | [**Modular Voice AI**](https://github.com/Faheem-02/Nexus-Voice-AI-System) | Speech → intent → handler → TTS with provider abstraction | Python, FastAPI, STT/TTS APIs |
-| [**LULC Segmentation — ISRO**](https://github.com/Faheem-02/LULC-Classification-U-Net-ResNet34) | Satellite image land-cover classification, ~0.79 IoU | Python, TensorFlow, U-Net, ResNet34 |
+| [**LULC Segmentation — U-Net (ISRO)**](https://github.com/Faheem-02/Level-I-LULC-Classification-using-U-Net-ISRO-Internship-) | 7-class satellite image segmentation on 135 ISRO images — IoU 0.4013, ~90% accuracy | Python, TensorFlow, U-Net, QGIS |
+| [**LULC Segmentation — ResNet34 Extension**](https://github.com/Faheem-02/LULC-Classification-U-Net-ResNet34) | U-Net + ResNet34 on 21,000-image dataset — Mean IoU 0.7984, precision 0.9109 | Python, TensorFlow, ResNet34 |
+| [**Comparative Study: Image Super-Resolution**](https://github.com/Faheem-02/Comparative-Study-of-Deep-Learning-Models-for-Image-Super-Resolution) | SRCNN vs SRGAN comparison on satellite imagery — LR to HR reconstruction pipeline | Python, TensorFlow, SRCNN, SRGAN |
 
 ---
 
@@ -37,7 +39,7 @@ Geospatial image segmentation from my ISRO internship — U-Net with ResNet34 ba
 A few principles I arrived at independently (and later found in distributed systems literature):
 
 - **State before logic** — define your execution states explicitly; hidden transitions cause the worst bugs
-- **Design for failure first** — if you can't describe how a component fails, you don't understand it yet  
+- **Design for failure first** — if you can't describe how a component fails, you don't understand it yet
 - **Backpressure over retries** — hard limits beat optimistic retry loops every time
 - **Observability is not optional** — if you can't trace what happened, you can't fix it
 
@@ -53,7 +55,7 @@ A few principles I arrived at independently (and later found in distributed syst
 
 ```
 AI/LLM       →  RAG pipelines, Agent workflows, LLM API integration, FAISS, Prompt engineering
-ML           →  TensorFlow, U-Net, ResNet, Image Segmentation, NLP, IoU evaluation
+ML           →  TensorFlow, U-Net, ResNet34, SRCNN, SRGAN, Image Segmentation, NLP, IoU evaluation
 Backend      →  Python, FastAPI, REST APIs, Config-driven architecture
 Automation   →  Playwright, QGIS, structured logging
 Cloud        →  AWS (Cloud Foundations + ML Foundations, Credly certified)
@@ -71,7 +73,3 @@ Concepts     →  State machines, Control loops, DAG execution, Actor model, Moc
 ---
 
 *"I think in systems first and reach for code second."*
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Faheem-02&label=Views&color=blue)]() 
-[![GitHub followers](https://img.shields.io/github/followers/Faheem-02?style=social)](https://github.com/Faheem-02?tab=followers) 
-[![GitHub Stars](https://img.shields.io/github/stars/Faheem-02?style=social)](https://github.com/Faheem-02?tab=repositories)
